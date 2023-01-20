@@ -1,0 +1,20 @@
+
+/* The Mock file to see how the style work in next js */
+@media screen and (max-width:900px) {
+
+    .form{
+        width: 100%;
+    }
+
+    .fWrapper{
+        grid-template-columns: 1fr;
+    }
+}
+
+
+@media screen and (max-width:1200px) {
+    .lImg{
+        display: none;
+    }
+}
+
